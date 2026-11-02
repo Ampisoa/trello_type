@@ -1,0 +1,6 @@
+{
+  "name": "Suivi de Flux & Fiches Cartes",
+  "description": "Système de suivi de flux textile et confection avec étapes configurables, checklists imbriquées, fiches identitaires de cartes, environnement Pôles Merch & Commerciale avec fiches identitaires d'équipes et modèles assignés, due dates de suivi, et historique d'audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
